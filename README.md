@@ -2,79 +2,88 @@
 <h3 align="center">B.Tech Student | Python Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praneethvarma75&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Praneethvarma75&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Praneethvarma75">
-    <img src="https://github-profile-trophy.vercel.app/?username=Praneethvarma75&theme=onedark&row=1&column=6" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Praneethvarma75&theme=onedark&no-frame=true&row=1&column=6" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech student passionate about **programming & emerging technologies**
-- 💡 Strong interest in **problem-solving and building efficient solutions**
-- 🌱 Continuously learning and improving my technical skills
+## 🚀 About Me
+- 🎓 B.Tech student with a strong foundation in **programming & problem-solving**
+- 💡 Passionate about **building efficient and scalable solutions**
+- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
+- 🔍 Always exploring new technologies and real-world applications
 
 ---
 
-### 🔭 What I'm Doing
-- 💻 Currently working on **Python development**
-- 🤖 Exploring real-world applications of **AI & Machine Learning**
-- 👯 Looking to collaborate on **Java projects**
-- 🤝 Improving my skills in **C++**
+## 🔭 Current Focus
+- 💻 Developing projects using **Python**
+- 🤖 Exploring **Machine Learning concepts & implementations**
+- 👯 Open to collaboration on **Java projects**
+- 🤝 Actively improving **C++ skills**
 
 ---
 
-### 🛠️ Tech Stack
-- 💻 Languages: **Python | Java | C++**
-- 🌐 Web: **HTML | CSS | JavaScript**
-- 📊 Basics: **Data Structures & Algorithms | Machine Learning**
+## 🛠️ Tech Stack
+**Languages:**  
+`Python` `Java` `C++`  
+
+**Web Technologies:**  
+`HTML` `CSS` `JavaScript`  
+
+**Core Concepts:**  
+`Data Structures & Algorithms` `Machine Learning`
 
 ---
 
-### 📌 Projects
-🔗 Explore all my projects here:  
+## 📂 Projects
+🔗 View all my work here:  
 👉 **https://github.com/Praneethvarma75**
 
 ---
 
-### 💬 Ask Me About
-- Python 🐍  
+## 💬 Ask Me About
+- Python Development 🐍  
 - Problem Solving 🧠  
-- Basic Machine Learning 🤖  
+- Machine Learning Basics 🤖  
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: **praneethvarma75@gmail.com**
+## 📫 Contact Me
+📧 **Email:** praneethvarma75@gmail.com  
 
 ---
 
-### ⚡ Fun Fact
-💡 I believe consistency beats talent when talent doesn’t work hard.
+## ⚡ Fun Fact
+💡 Consistency and discipline matter more than talent alone.
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praneethvarma75&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneethvarma75&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneethvarma75&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneethvarma75&theme=tokyonight" />
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethvarma75&layout=compact&theme=tokyonight" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneeth&show_icons=true&locale=en&layout=compact" alt="praneeth" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneeth&show_icons=true&locale=en" alt="praneeth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth&" alt="praneeth" /></p>
-
+## 🧰 Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" />
+</p>
