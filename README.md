@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth Varma</h1>
-<h3 align="center">B.Tech Student | Python Developer | AI & ML Enthusiast</h3>
+<h3 align="center">🎓 B.Tech Student | 💻 Python Developer | 🤖 AI & ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Praneethvarma75&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,54 +13,53 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech student with a strong foundation in **programming & problem-solving**
-- 💡 Passionate about **building efficient and scalable solutions**
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
-- 🔍 Always exploring new technologies and real-world applications
+## 👨‍🎓 Student Profile
+I am a dedicated B.Tech student with a strong interest in software development and emerging technologies. I enjoy solving problems and building efficient, real-world solutions using programming.
+
+Currently, I am focused on **Python development** and exploring **Artificial Intelligence & Machine Learning**, aiming to apply my knowledge to practical projects and continuously grow as a developer.
 
 ---
 
-## 🔭 Current Focus
-- 💻 Developing projects using **Python**
-- 🤖 Exploring **Machine Learning concepts & implementations**
-- 👯 Open to collaboration on **Java projects**
-- 🤝 Actively improving **C++ skills**
+## 🚀 What I’m Working On
+- 💻 Building projects using **Python**
+- 🤖 Learning and implementing **AI & Machine Learning concepts**
+- 👯 Collaborating on **Java-based projects**
+- 🤝 Strengthening my **C++ and problem-solving skills**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 **Languages:**  
 `Python` `Java` `C++`  
 
-**Web Technologies:**  
+**Web Development:**  
 `HTML` `CSS` `JavaScript`  
 
-**Core Concepts:**  
+**Core Knowledge:**  
 `Data Structures & Algorithms` `Machine Learning`
 
 ---
 
 ## 📂 Projects
-🔗 View all my work here:  
+🔗 Explore my work:  
 👉 **https://github.com/Praneethvarma75**
 
 ---
 
-## 💬 Ask Me About
+## 💬 Let’s Talk About
 - Python Development 🐍  
 - Problem Solving 🧠  
-- Machine Learning Basics 🤖  
+- AI & Machine Learning Basics 🤖  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 📧 **Email:** praneethvarma75@gmail.com  
 
 ---
 
-## ⚡ Fun Fact
-💡 Consistency and discipline matter more than talent alone.
+## ⚡ Mindset
+💡 *Consistency, curiosity, and continuous learning drive my growth as a developer.*
 
 ---
 
@@ -79,7 +78,7 @@
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Tools I Use
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
