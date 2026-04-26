@@ -1,38 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Praneeth Varma</h1>
+<h3 align="center">B.Tech Student | Python Developer | AI & ML Enthusiast</h3>
 
-<!--
-**Praneethvarma75/Praneethvarma75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Praneethvarma75&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Praneethvarma75">
+    <img src="https://github-profile-trophy.vercel.app/?username=Praneethvarma75&theme=onedark&row=1&column=6" alt="trophies"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Praneeth Varma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeth&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth" /> </p>
+### 🚀 About Me
+- 🎓 B.Tech student passionate about **programming & emerging technologies**
+- 💡 Strong interest in **problem-solving and building efficient solutions**
+- 🌱 Continuously learning and improving my technical skills
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeth" alt="praneeth" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🔭 What I'm Doing
+- 💻 Currently working on **Python development**
+- 🤖 Exploring real-world applications of **AI & Machine Learning**
+- 👯 Looking to collaborate on **Java projects**
+- 🤝 Improving my skills in **C++**
 
-- I’m a passionate and driven B.Tech student with a strong interest in programming and emerging technologies. I enjoy building efficient solutions and continuously improving my technical skills.
+---
 
-🔭 Currently working on Python development and exploring real-world applications
-🌱 Learning and diving deeper into Artificial Intelligence & Machine Learning
-👯 Open to collaborating on Java-based projects
-🤝 Seeking guidance and improving my skills in C++
-👨‍💻 Check out my projects here:
-👉 https://github.com/Praneethvarma75
-💬 Ask me about Python, problem-solving, and basic ML concepts
-📫 Reach me at: praneethvarma75@gmail.com
+### 🛠️ Tech Stack
+- 💻 Languages: **Python | Java | C++**
+- 🌐 Web: **HTML | CSS | JavaScript**
+- 📊 Basics: **Data Structures & Algorithms | Machine Learning**
 
+---
+
+### 📌 Projects
+🔗 Explore all my projects here:  
+👉 **https://github.com/Praneethvarma75**
+
+---
+
+### 💬 Ask Me About
+- Python 🐍  
+- Problem Solving 🧠  
+- Basic Machine Learning 🤖  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **praneethvarma75@gmail.com**
+
+---
+
+### ⚡ Fun Fact
+💡 I believe consistency beats talent when talent doesn’t work hard.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneethvarma75&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneethvarma75&theme=tokyonight" alt="streak"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
